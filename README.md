@@ -20,8 +20,8 @@ Here are some ideas to get you started:
     I'm Carlos Felipe, nice to e-meet you :)
     Software Engineer - Man/He/Him
     
-    - Studying to be a software developer 📱
-    - React-Native and TypeScript fanboy 💜
+    - React Native Developer at Status Invest 📱
+    - TypeScript fanboy 💜
     - Functional Programming ✨
     - Living in Brazil 🇧🇷
     - Linux enthusiastic 🐧
