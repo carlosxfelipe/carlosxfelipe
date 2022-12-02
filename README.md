@@ -20,8 +20,9 @@ Here are some ideas to get you started:
     I'm Carlos Felipe, nice to e-meet you :)
     Software Engineer - Man/He/Him
     
+    - Neurodivergent and Proud (ASD and ADHD) 🧠
     - React Native Developer at Status Invest 📱
-    - TypeScript fanboy 💜
+    - TypeScript fanboy 💙
     - Functional Programming ✨
     - Living in Brazil 🇧🇷
     - Linux enthusiastic 🐧
