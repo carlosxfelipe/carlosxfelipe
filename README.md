@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="left" height="200" src="https://64.media.tumblr.com/ed8745b30c1a1d7eb1935017c94d8dbf/tumblr_n9i8foLj941qc2xm1o1_500.gifv"/>
+<img align="left" height="200" src="https://media2.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif?cid=ecf05e47tw6qoas3pucj00yyz23hrld4imsz3gpsyl5jdfes&rid=giphy.gif&ct=g"/>
     
     I'm Carlos Felipe, nice to e-meet you :)
     Software Engineer - Man/He/Him
     
-    - Neurodivergent and Proud (ASD and ADHD) 🧠
+    - Neurodivergent and Proud (Autistic and Gifted) 🧠
     - React Native Developer at Status Invest 📱
     - TypeScript fanboy 💙
     - Functional Programming ✨
