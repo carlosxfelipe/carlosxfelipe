@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **carlosxfelipe@gmail.com**
 
-- ⚡ Fun fact **I'm autistic and gifted**
+- 🌻 Curious fact **I'm autistic and gifted**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
