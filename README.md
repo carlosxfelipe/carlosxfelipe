@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carlos Felipe Araujo</h1>
 <h3 align="center">A passionate mobile developer from Brazil</h3>
 
-- 🔭 I’m currently working on **Status Invest**
+<!-- - 🔭 I’m currently working on **Status Invest** -->
 
 - 🌱 I’m currently learning **Dart Programming Language**
 
@@ -45,5 +45,7 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
+  <a href="https://powerapps.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://summitbajracharya.com.np/wp-content/uploads/2020/10/powerapp-2020-icon-1024x1024.png" alt="PowerApps" width="40" height="40"/>
+  </a>
 </p>
-
