@@ -49,3 +49,5 @@
     <img src="https://summitbajracharya.com.np/wp-content/uploads/2020/10/powerapp-2020-icon-1024x1024.png" alt="PowerApps" width="30" height="30"/>
   </a>
 </p>
+
+<p align="center">"The only way to do great work is to love what you do." - Steve Jobs</p>
