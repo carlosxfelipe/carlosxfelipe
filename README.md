@@ -5,7 +5,7 @@
 
 - 💼 I am an experienced **JavaScript Programmer**
 
-- 🌱 I’m currently learning **Dart** and **Kotlin**
+- 🌱 I’m currently learning **Dart** and **Flutter**
 
 - 📫 How to reach me **carlosxfelipe@gmail.com**
 
@@ -46,12 +46,6 @@
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://powerapps.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://summitbajracharya.com.np/wp-content/uploads/2020/10/powerapp-2020-icon-1024x1024.png" alt="PowerApps" width="40" height="40"/>
-  </a>
-  <a href="https://www.uipath.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.cursou.com.br/wp-content/uploads/2020/12/Curso-de-RPA-com-UIPath-Studio.png" alt="uipath" width="40" height="40"/>
   </a>
 </p>
 
