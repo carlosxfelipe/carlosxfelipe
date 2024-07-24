@@ -1,15 +1,7 @@
-<h1 align="center">Hi 👋, I'm Carlos Felipe Araujo</h1>
-<h3 align="center">A passionate mobile developer from Brazil</h3>
-
-<!-- - 🔭 I’m currently working on **Status Invest** -->
-
-- 💼 I am an experienced **JavaScript Programmer**
-
-- 🌱 I’m currently learning **Dart** and **Flutter**
-
-- 📫 How to reach me **carlosxfelipe@gmail.com**
-
-- 🌻 Curious fact **I'm autistic and gifted**
+👋 Hi, I’m Carlos Felipe Araújo @carlosxfelipe
+👀 I’m interested in Coding, Teaching, Video Games, Legos!
+🌱 I’m currently learning a lot of stuff
+🌻 I'm autistic and gifted
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
