@@ -1,7 +1,7 @@
-👋 Hi, I’m Carlos Felipe Araújo @carlosxfelipe
-👀 I’m interested in Coding, Teaching, Video Games, Legos!
-🌱 I’m currently learning a lot of stuff
-🌻 I'm autistic and gifted
+👋 Hi, I’m Carlos Felipe Araújo @carlosxfelipe<br>
+👀 I’m interested in Coding, Teaching, Video Games, Legos!<br>
+🌱 I’m currently learning a lot of stuff<br>
+🌻 I'm autistic and gifted<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
