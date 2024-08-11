@@ -1,9 +1,9 @@
 <p float="left">
   <p float="left">
     <samp>
-      👋 Hi, I’m Carlos Felipe Araújo <br>
-      👀 I’m interested in Coding, Teaching, Video Games, Legos!<br>
-      🌱 I’m currently learning a lot<br>
+      👋 Hi, I’m Carlos Felipe Araújo<br>
+      👀 I’m interested in Coding, Teaching, Video Games, Anime<br>
+      🌱 I'm always learning a lot of new things<br>
       🌻 I'm autistic and gifted<br>
       <br>
       langs:<br>
