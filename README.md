@@ -14,11 +14,13 @@
           - <a href="https://reactjs.org">React</a> - web development<br>
           - <a href="https://reactnative.dev/">React Native</a> - cross-platform app development<br>
           - <a href="https://flutter.dev">Flutter</a> - mobile app development <br>
+          - <a href="https://astro.build/">Astro</a> - static site builder<br>
           - <a href="https://vuejs.org/">Vue</a> - progressive JavaScript framework<br>
+          - <a href="https://nestjs.com/">Nest</a> - backend framework<br>
      <br>
      <br>
       social:<br>
-         <a href="https://twitter.com/carlosxfelipe">Twitter</a> | 
+         <a href="https://www.threads.net/@carlosxfelipe">Threads</a> | 
          <a href="https://www.linkedin.com/in/carlosxfelipe/">LinkedIn</a> | 
          <a href="https://www.instagram.com/carlosxfelipe/">Instagram</a>
       </samp>
