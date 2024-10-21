@@ -5,6 +5,7 @@
       👀 I’m interested in Coding, Teaching, Video Games, Anime<br>
       🌱 I'm always learning a lot of new things<br>
       🧠 Twice-exceptional (2e) autistic and gifted<br>
+      💬 頑張って - do your best
       <br>
       langs:<br>
           > JavaScript, TypeScript, Dart, Golang.
