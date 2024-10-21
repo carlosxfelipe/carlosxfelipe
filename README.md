@@ -4,7 +4,7 @@
       👋 Hi, I’m Carlos Felipe Araújo<br>
       👀 I’m interested in Coding, Teaching, Video Games, Anime<br>
       🌱 I'm always learning a lot of new things<br>
-      🌻 I'm autistic and gifted<br>
+      🧠 Twice-exceptional (2e) autistic and gifted<br>
       <br>
       langs:<br>
           > JavaScript, TypeScript, Dart, Golang.
