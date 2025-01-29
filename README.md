@@ -8,7 +8,7 @@
       💬 頑張って - do your best
       <br>
       langs:<br>
-          > JavaScript, TypeScript, Dart, Golang, Swift.
+          > JavaScript, TypeScript, Dart, Swift.
       <br>
       <br>
       tools:<br>
