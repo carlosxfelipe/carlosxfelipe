@@ -1,17 +1,4 @@
 <p float="left">
-  <!-- Fundo transparente com opacidade -->
-  <div style="
-    position: fixed;
-    width: 100%;
-    height: 100%;
-    top: 0;
-    left: 0;
-    z-index: -1;
-    opacity: 0.2;
-    background: url('Esil_Radiru.webp') no-repeat center;
-    background-size: cover;">
-  </div>
-
   <samp>
     👋 Hi, I’m Carlos Felipe Araújo<br>
     👀 I’m interested in Coding, Teaching, Video Games, Anime<br>
@@ -36,4 +23,5 @@
        <a href="https://www.linkedin.com/in/carlosxfelipe/">LinkedIn</a> | 
        <a href="https://www.instagram.com/carlosxfelipe/">Instagram</a>
   </samp>
+  <img src="https://raw.githubusercontent.com/carlosxfelipe/carlosxfelipe/main/Esil_Radiru.webp" width="100%" style="opacity:0.2;">
 </p>
