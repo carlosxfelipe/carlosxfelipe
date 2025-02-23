@@ -23,5 +23,5 @@
        <a href="https://www.linkedin.com/in/carlosxfelipe/">LinkedIn</a> | 
        <a href="https://www.instagram.com/carlosxfelipe/">Instagram</a>
   </samp>
-  <img src="https://raw.githubusercontent.com/carlosxfelipe/carlosxfelipe/main/Esil_Radiru.webp" width="100%" style="opacity:0.2;">
+  <img src="https://raw.githubusercontent.com/carlosxfelipe/carlosxfelipe/main/Esil_Radiru.webp" width="100%" >
 </p>
